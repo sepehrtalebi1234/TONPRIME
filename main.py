@@ -1,4 +1,4 @@
-pip install flask ccxt requests pandas pandas-ta
+
 from flask import Flask
 import ccxt
 import threading
